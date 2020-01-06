@@ -1,0 +1,21 @@
+{
+  
+  "author": {
+    "name": "Uday Mishra"
+  },
+  "bundleDependencies": [],
+  "deprecated": false,
+  "description": "this package contains cloudfiends's custom and common errors.",
+  "keywords": [
+    "custom",
+    "errors",
+    "common",
+    "errors",
+    "cloudfiends",
+    "errors"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "cloudfiends-errors",
+  "version": "1.0.2"
+}
